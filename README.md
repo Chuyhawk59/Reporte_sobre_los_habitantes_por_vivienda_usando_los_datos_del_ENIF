@@ -40,5 +40,5 @@ Este análisis proporciona una visión general de cómo las características eco
 ## Archivos relevantes:
 * [Archivo en ipynb](Proyecto_1.ipynb)
 * [Archivo en HTML](Proyecto_1.html)
-* [Base de datos](Proyecto_1.ipynb)
-* [Diccionario de la base de datos](Proyecto_1.ipynb)
+* [Base de datos](conjunto_de_datos_tvivienda_enif2024.csv)
+* [Diccionario de la base de datos](diccionario_datos_tvivienda_enif2024.csv)
